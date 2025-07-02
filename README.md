@@ -35,7 +35,7 @@ transformer-mt-en-id/
 
 1.  **Clone the Repository**
     ```bash
-    git clone 
+    git clone https://github.com/akariwill/tf-mt-en-id.git
     cd transformer-mt-en-id
     ```
 
