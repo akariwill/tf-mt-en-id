@@ -103,3 +103,16 @@ All hyperparameters and paths can be configured in the `src/config.py` file.
     *   Training for a longer duration on a powerful GPU.
     *   Implementing more advanced regularization techniques and learning rate scheduling.
     *   Using **beam search** instead of **greedy search** during inference for higher-quality translations (though greedy search is sufficient for demonstration purposes).
+
+## Contact
+
+Thank You for passing by!!
+If you have any questions or feedback, please reach out to us at [contact@akariwill.id](mailto:mwildjrs23@gmail.com?subject=[tf-mt]%20-%20Your%20Subject).
+<br>
+or you can DM me on Discord `wildanjr_` or Instagram `akariwill`. (just contact me on one of these account)
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues in the repository.
+
+---
