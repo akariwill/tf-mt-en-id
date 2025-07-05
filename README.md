@@ -3,7 +3,6 @@
   <img src="https://github.com/akariwill/Otaku/blob/main/assets/images/akari.jpg" alt="logo" width="180" style="border-radius: 50%;"/>
 </a>
 </div>
----
 
 # Transformer Machine Translation (EN-ID) from Scratch
 
