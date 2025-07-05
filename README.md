@@ -1,4 +1,8 @@
-
+<div align="center">
+<a href="https://akariwill.github.io/tf-mt-en-id/">
+  <img src="https://github.com/akariwill/Otaku/blob/main/assets/images/akari.jpg" alt="logo" width="180" style="border-radius: 50%;"/>
+</a>
+</div>
 ---
 
 # Transformer Machine Translation (EN-ID) from Scratch
